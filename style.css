@@ -222,12 +222,12 @@ button:hover {
 }
 
 .card h4 {
-  font-size: 3rem;
+  font-size: 4rem;
   padding: 2rem;
 }
 
 .card p {
-  font-size: 1.7rem;
+  font-size: 2.2rem;
   padding: 3rem;
   padding-top: 0;
 }
@@ -377,7 +377,7 @@ footer {
   }
 
   .locations-head h2 {
-    font-size: 3rem;
+    font-size: 3.5rem;
     text-align: center;
     border-bottom: none;
   }
@@ -388,7 +388,7 @@ footer {
     margin-top: 2rem;
     border-radius: 2rem;
     text-align: center;
-    font-size: 2rem;
+    font-size: 2.2rem;
   }
 
   .hero h2 {
@@ -411,6 +411,10 @@ footer {
   }
 
   .form-wrapper {
+    width: 80%;
+  }
+
+  .form-wrapper input {
     width: 80%;
   }
 
